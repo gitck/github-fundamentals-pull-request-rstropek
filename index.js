@@ -9,6 +9,7 @@ $(() => {
     // Add conversions here
     const conversion = [
         // You can reference functions
+        //TODO change
         { from: 'm', to: 'cm', convertFunc: fromMeterToCentimeter },
 
         // You can specify inline conversions
